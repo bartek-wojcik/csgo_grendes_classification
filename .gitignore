@@ -1,0 +1,6 @@
+.idea/
+venv/
+grenade_model
+*.pdf
+*.zip
+__pycache__/
